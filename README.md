@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 · vhU8CDdW -->
-## Notification 1/2
-Round: Round 1
-To: pat122153@yahoo.com, pat_2003_5@hotmail.com
-At: 2026-09-16 19:26:25
-Id: vhU8CDdW
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: pat_household@yahoo.ca, patasseanicet@hotmail.com
+At: 2026-09-16 19:26:39
+Id: SodlzwZ5
